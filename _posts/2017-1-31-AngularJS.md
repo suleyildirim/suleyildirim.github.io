@@ -5,6 +5,8 @@ permalink: /Home/Genel/AngularJS
 summary: Merhaba arkadaslar, bu yazımızda AngularJS temel kavramları öğreneceğiz.
 ---
 
+Merhaba arkadaslar, bu yazımızda AngularJS temel kavramları öğreneceğiz.
+
 # AngularJS Giriş Ve Temel Kavramlar
 
 * <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>  Kütüphanesi eklenmeli.
