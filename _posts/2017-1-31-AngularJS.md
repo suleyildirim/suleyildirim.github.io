@@ -1,10 +1,9 @@
 ---
 layout: post
 title: AngularJS
----
 permalink: /Home/Genel/AngularJS
 summary: Merhaba arkadaslar, bu yazımızda AngularJS temel kavramları öğreneceğiz.
-
+---
 
 # AngularJS Giriş Ve Temel Kavramlar
 
