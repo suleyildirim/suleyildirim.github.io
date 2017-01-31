@@ -38,7 +38,7 @@ This area controlled by Angular!
 <body ng-app> yazılırsa angular olarak işlem yapılır.
 
 
-## JavaScript Patterns
+### JavaScript Patterns
 
 1. Functions as abstractions
 	
